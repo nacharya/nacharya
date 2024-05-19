@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nacharya
-- 👀 I’m interested in Machine Learning, Artificial Intelligence and Intelligent Data scenarios.
-- 🌱 I’m currently learning PyTorch, Go and Haskell
-- 💞️ I’m looking to collaborate on ML Projects
+- 👀 Interested in Gen AI, ML and Intelligent Data scenarios.
+- 🌱 Always learning ... Go, Rust, Python3, PyTorch... Deep Learning, LLMs
+- 💞️ Collaborating in Projects
 - 📫 How to reach me ...
 
 <!---
